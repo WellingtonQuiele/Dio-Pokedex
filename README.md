@@ -4,12 +4,6 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- 
-</p>
-
-<p align="center">
 <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/b8b0b63f-fb44-4dea-9f57-42644c4a0cb0"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/b8b0b63f-fb44-4dea-9f57-42644c4a0cb0.svg" alt="wakatime"></a>
 </p>
 
